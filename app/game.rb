@@ -1,7 +1,7 @@
 require "pry"
 
 class Game
-  def hello
-    "hello"
+  def run
+    # Run it here
   end
 end
